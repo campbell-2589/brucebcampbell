@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucebcampbell)](https://github.com/brucebcampbell/github-readme-stats)
+
+
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
